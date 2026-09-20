@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Mathematics+Student+%40+Ferdowsi+University;Python+Developer+%7C+Vibe+Coder;AI+%26+Data+Science+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Mathematics+Student+%40+Ferdowsi+University;Python+Developer;AI+%26+Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 **«دانشجوی ریاضیات و کاربردها | توسعه‌دهندهٔ پایتون | مشتاق هوش مصنوعی»**
 
@@ -14,7 +14,6 @@
 
 - 🎓 3rd-semester B.Sc. student in **Mathematics and Applications** at **Ferdowsi University of Mashhad**
 - 🐍 **Python** developer — my main language
-- 🧠 **Vibe coder** — I ship with AI as my pair programmer
 - 🤖 Into **AI, automation, and data science**
 - 🎯 Goal: **M.Sc. in AI abroad**
 
@@ -24,7 +23,6 @@
 
 - 🎓 دانشجوی ترم ۳ کارشناسی **ریاضیات و کاربردها** در **دانشگاه فردوسی مشهد**
 - 🐍 توسعه‌دهندهٔ **پایتون** — زبان اصلی‌ام
-- 🧠 **وایب‌کدر** — با AI به‌عنوان برنامه‌نویس همراهم می‌سازم و تحویل می‌دم
 - 🤖 علاقه‌مند به **هوش مصنوعی، اتوماسیون و علم داده**
 - 🎯 هدف: **اپلای ارشد AI خارج از کشور**
 
@@ -38,8 +36,6 @@
 |---|---|
 | **University** | Ferdowsi University of Mashhad (دانشگاه فردوسی مشهد) |
 | **Degree** | B.Sc. in Mathematics and Applications (ریاضیات و کاربردها) |
-| **Status** | 3rd semester |
-| **GPA (1st term)** | 19.37 / 20 |
 
 ---
 
@@ -89,8 +85,6 @@
 ---
 
 <div align="center">
-
-<i>⚡ Fun fact: everything above was vibe-coded.</i>
 
 <img src="https://komarev.com/ghpvc/?username=Amirmahdi-fum&color=2f81f7&style=flat" alt="profile views"/>
 
