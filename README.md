@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Mathematics+Student+%40+Ferdowsi+University;Python+Developer;AI+%26+Data+Science+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Mathematics+Student+%40+Ferdowsi+University;Python+Developer;Aspiring+AI+Researcher;AI+%26+Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 **«دانشجوی ریاضیات و کاربردها | توسعه‌دهندهٔ پایتون | مشتاق هوش مصنوعی»**
 
@@ -68,6 +68,8 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amirmahdi-fum&show_icons=true&title_color=2f81f7&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmahdi-fum&layout=compact&title_color=2f81f7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=Amirmahdi-fum&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak"/>
 
 </div>
 
@@ -89,3 +91,5 @@
 <img src="https://komarev.com/ghpvc/?username=Amirmahdi-fum&color=2f81f7&style=flat" alt="profile views"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" alt="footer wave" width="100%"/>
